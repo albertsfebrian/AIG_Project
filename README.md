@@ -1,7 +1,5 @@
 # AIG_Project
-This game is made by Bina Nusantara Student to fulfil the AIG (Advance in Games) Project
-
-# AIG Lecturer D5555 - Parlinggoman Rinando Hasibuan
+This game is made by Bina Nusantara Student to fulfil the AIG (Advance in Games) Project under the Supervision of our Lecturer D5555 - Parlinggoman Rinando Hasibuan.
 
 # Anggota Kelompok
 | NIM  |  Name  | LinkedIn |
@@ -11,7 +9,6 @@ This game is made by Bina Nusantara Student to fulfil the AIG (Advance in Games)
 | 2101652510 | RIKO EDHI PRASETYA | https://linkedin.com/in/riko-edhi-prasetya-300111169/ |
 | 2101652580 | Willson Haryanto | https://www.linkedin.com/in/willson-haryanto-813358121/ |
 | 2101684746 | BRYAN ELBENN SANTOSO | - |
-
 
 # Game Design Document (using High Concept Document)
 
@@ -27,4 +24,3 @@ This game is made by Bina Nusantara Student to fulfil the AIG (Advance in Games)
 | Target Hardware | Minimum Hardware Specifications | Processor: Intel Core 2 Duo or AMD Athlon 64x2 5600+ <br/> Memory: 4 GB RAM. <br/> Graphics: NVIDIA® GeForce® GT 420 or ATI™ Radeon™ HD 6850 or Intel® HD Graphics 4000 or better with 2 GB VRAM. DirectX: Version 11.  |
 | Design Goals | Desired Outputs | Player create and design their own maps. <br/> Player can kill enemies in the maps and win the game. |
 | Characters | Main Characters | There are no characters in this game. Players are only playing against AI enemies |
-
