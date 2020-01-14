@@ -1,8 +1,7 @@
 # AIG_Project
 This game is made by Bina Nusantara Student to fulfil the AIG (Advance in Games) Project
 
-# AIG Lecturer
-# D5555 - Parlinggoman Rinando Hasibuan
+# AIG Lecturer D5555 - Parlinggoman Rinando Hasibuan
 
 # Anggota Kelompok
 | NIM  |  Name  | LinkedIn |
