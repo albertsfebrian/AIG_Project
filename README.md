@@ -2,8 +2,8 @@
 This game is made by Bina Nusantara Student to fulfil the AIG (Advance in Games) Project under the Supervision of our Lecturer D5555 - Parlinggoman Rinando Hasibuan.
 
 # Anggota Kelompok
-| NIM  |  Name  | LinkedIn |
-| ---- | :----: | :------: | 
+| NIM   |  Name   | LinkedIn  |
+| ----  | :----:  | :------:  | 
 | 2101657083 | ALBERTS FEBRIAN PRAWIRA | https://www.linkedin.com/in/alberts-febrian-p-774626b8/ |
 | 2101722422 | KELWIN TANTONO | https://www.linkedin.com/in/kelwintantono/ |
 | 2101652510 | RIKO EDHI PRASETYA | https://linkedin.com/in/riko-edhi-prasetya-300111169/ |
