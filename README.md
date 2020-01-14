@@ -8,7 +8,7 @@ This game is made by Bina Nusantara Student to fulfil the AIG (Advance in Games)
 | 2101722422 | KELWIN TANTONO | https://www.linkedin.com/in/kelwintantono/ |
 | 2101652510 | RIKO EDHI PRASETYA | https://linkedin.com/in/riko-edhi-prasetya-300111169/ |
 | 2101652580 | Willson Haryanto | https://www.linkedin.com/in/willson-haryanto-813358121/ |
-| 2101684746 | BRYAN ELBENN SANTOSO | - |
+| 2101684746 | BRYAN ELBENN SANTOSO | https://www.linkedin.com/in/bryan-elbenn-069309197 |
 
 # Game Design Document (using High Concept Document)
 
