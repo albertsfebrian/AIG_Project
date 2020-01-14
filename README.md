@@ -4,6 +4,6 @@ This game is made by Bina Nusantara Student to fulfil the AIG (Advance in Games)
 
 | Point         | Purpose       | Example  |
 | ------------- |:-------------:| --------:|
-| col 3 is      | right-aligned | $1600    |
-| col 2 is      | centered      |   $12    |
-| zebra stripes | are neat      |    $1    |
+| Game Title    | - | Game CS    |
+| High Concept      | Idea and Fundamental Points of the Game      |    Create Map and Kill AI Enemies.   |
+| Features | POV, Feature, Player Interaction, Action, Amount of Stages, Technical Instructions      |    - Create Map - Place obstacles - Kill Enemy    |
